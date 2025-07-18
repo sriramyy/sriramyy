@@ -4,7 +4,7 @@
 - 🎓 University of Florida
 - 📖 Computer Engineering, Expected 2027 
 - 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/sriram-yerramsetty-4a5baa271/)
-- 🌐 [Portfolio]([https://sriramyy.vercel.app/)
+- 🌐 [Portfolio](https://sriramyy.vercel.app/)
 ___
 
 - 👾 Languages

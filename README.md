@@ -1,8 +1,9 @@
 
 ## Hello I'm Sriram Yerramsetty 👋
 
-- 🎓 University of Florida
-- 📖 Computer Engineering, Expected 2027 
+- 🏫 University of Florida
+- 📖 Computer Engineering, Expected 2027
+   - 🎓 Combined BS/MS in Computer Engineering, Expected ~2028
 - 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/sriram-yerramsetty-4a5baa271/)
 - 🌐 [Portfolio](https://sriramyy.vercel.app/)
 ___
@@ -17,4 +18,3 @@ ___
   * React
   * PyTorch
   * SFML
-
